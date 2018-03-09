@@ -1,0 +1,1 @@
+Query used for Overpass Api: (node(45.4151,-122.9236,45.6704,-122.3849);<;);out meta;
